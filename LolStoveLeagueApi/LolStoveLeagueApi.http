@@ -1,0 +1,6 @@
+@LolStoveLeagueApi_HostAddress = http://localhost:5096
+
+GET {{LolStoveLeagueApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
